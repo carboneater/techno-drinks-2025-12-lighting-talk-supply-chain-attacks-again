@@ -1,5 +1,5 @@
 ---
-background: sandwormds.webp
+background: sandworms.webp
 layout: cover
 transition: none
 ---
@@ -16,6 +16,10 @@ transition: none
 
 - Mauvaise configuration de CI de `posthog`
     - `on: pull_request_target`
+- PR Ouvert
+    - GitHub Actions
+    - Tokens exfiltrés
+- PR supprimé
 
 ---
 layout: center

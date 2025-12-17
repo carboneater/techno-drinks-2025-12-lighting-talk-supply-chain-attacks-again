@@ -53,6 +53,10 @@ src: ./pages/teaspam.md
 ---
 
 ---
+src: pages/sha1-hulud-2.0.md
+---
+
+---
 image: fishing.jpg
 layout: image
 ---
@@ -87,3 +91,5 @@ layout: end
 ---
 
 # Merci
+
+<PoweredBySlidev mt-10 />
